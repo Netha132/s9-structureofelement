@@ -1,0 +1,42 @@
+*{
+    border-radius: 10px;
+}
+img{
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+}
+#mainHead{
+    font-size: 3rem;
+    background-color: rgb(70, 61, 167);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+#disneyWorld{
+    border: 10px solid #000;
+    box-sizing: border-box;
+}
+#emeraldCave{
+    border: 10px dashed #000;
+    box-sizing: content-box;
+}
+#emeraldCave2{
+    border: 10px dotted #000;
+}
+#emeraldCave3{
+    border: 10px groove #000;
+}
+#fremont2{
+    border: 10px ridge #000;
+}
+#lasvegasStrip3{
+    border: 10px inset #000;
+}
+#fremontStreet{
+    border: 10px outset #000;
+}
+#lasvegasStrip2{
+    border: 10px double #000;
+}
